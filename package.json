@@ -1,0 +1,18 @@
+{
+  "name": "redux-outlets",
+  "version": "1.0.0",
+  "description": "Redux Design pattern for better data layers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siavash Etemadieh",
+  "license": "ISC",
+  "dependencies": {
+    "shallowequal": "^1.0.2"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "redux": "^3.7.2"
+  }
+}
